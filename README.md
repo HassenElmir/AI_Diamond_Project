@@ -10,7 +10,7 @@ The pipeline includes:
 - Model training & evaluation
 - Hyperparameter optimization using Optuna
 - Synthetic data generation using CTGAN
-
+- Validation of the AI model with the synthetic data
 ---
 
 ## 📊 Dataset
