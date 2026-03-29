@@ -28,10 +28,6 @@ The dataset contains information about diamonds, including:
 ---
 
 ## 🧠 Feature Engineering
-- Created new features:
-  - `volume = x * y * z`
-  - `density = carat / volume`
-  - Ratio features (xy, xz, yz)
 - Applied **ordinal encoding**:
   - Cut: Fair → Ideal
   - Color: J → D
